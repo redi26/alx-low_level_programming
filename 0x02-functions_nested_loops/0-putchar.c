@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <main.h>
 /**
  * main - _putchar
  * Description: program that prints putchar
