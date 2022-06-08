@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - use _putchar
- * Description: write function that prints alphabet
- * Return: a-z
+ * main - use function _putchar
+ * Description: function that prints the alphabet
+ * Return; a-z
  */
 void print_alphabet(void)
 {
@@ -13,5 +13,4 @@ void print_alphabet(void)
 		_putchar(j);
 	}
 	_putchar('\n');
-
 }
